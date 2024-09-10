@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tinewlsio.github.io/sitemap.html.gz
+Sitemap: https://tinewlsio.github.io/app/sitemap.html.gz
+Sitemap: https://tinewlsio.github.io/assets/sitemap.html.gz
+Sitemap: https://tinewlsio.github.io/css/sitemap.html.gz
+Sitemap: https://tinewlsio.github.io/includes/sitemap.html.gz
+Sitemap: https://tinewlsio.github.io/item/sitemap.html.gz
+Sitemap: https://tinewlsio.github.io/src/sitemap.html.gz
